@@ -1,0 +1,15 @@
+fitz
+PyMuPDF
+pandas
+psycopg2
+boto3
+botocore
+awscli
+langchain-aws
+langchain-core
+langchain-community
+langchain
+markdown
+pydantic
+websockets
+uvicorn
